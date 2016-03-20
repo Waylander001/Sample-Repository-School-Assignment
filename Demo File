@@ -1,1 +1,11 @@
-This Section is used for the creation of new files to add to the repository be them code  video or notes. 
+/*
+*This Section is used for the creation of new files to add to the repository be them code  video or notes. 
+*
+*
+*/
+
+/*
+* this demos  creation of a banch  to alow  fiel or project modifacation while keeping the main files safe.
+* after modifying the file a pull will be requested to merge the file with main project
+*/
+
